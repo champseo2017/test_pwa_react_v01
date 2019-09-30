@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #01c8e5;
+  text-align: center;
+}
+.navbar a {
+  display: inline-block;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+.page-info {
+  text-align: center;
+  font-weight: bold;
+}
